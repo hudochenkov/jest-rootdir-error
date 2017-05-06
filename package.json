@@ -1,0 +1,14 @@
+{
+  "name": "jest-validation-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config test/config.json"
+  },
+  "author": "Leonid Nikiforenko <leo.nikiforenko@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^20.0.0"
+  }
+}
